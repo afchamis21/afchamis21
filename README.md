@@ -1,5 +1,7 @@
 # print("Hello World!") 👋
 
+## My name is Andre, I'm from Brazil, and I'm currently studying Front-End development with ReactJS.
+
 <!--
 **afchamis21/afchamis21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +17,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-https://github-readme-stats.vercel.app/api?username=afchamis21&amp;show_icons=true&amp;theme=dracula&amp;include_all_commits=true&amp;count_private=true
+<div align="center" dir="auto">
+  <a href="https://github.com/anuraghazra/github-readme-stats" target="blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=afchamis21&show_icons=true&theme=algolia" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat" target="blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afchamis21&layout=compact&theme=algolia&card_width=445px&card" />
+</a>
+</div>
+
+
