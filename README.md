@@ -10,7 +10,7 @@ I'm a begginer Front-End Developer from Brazil, although I aspire to become a Fu
 
 I've been studying programming for about a year, learned a great deal of python. but I still have to learn Flask or Django since I decided to switch my attention to JavaScript, React and Node.JS
 
-## ⚙️ GitHub Alanytics
+## ⚙️ GitHub Analytics
 <div align="center" dir="auto">
   <a href="https://github.com/anuraghazra/github-readme-stats" target="blank">
   <img width="530em" align="center" src="https://github-readme-stats.vercel.app/api?username=afchamis21&show_icons=true&theme=algolia" style="max-width: 100%;">
