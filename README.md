@@ -8,7 +8,7 @@ I'm a begginer Front-End Developer from Brazil, although I aspire to become a Fu
 - 📫 How to reach me: andrechamis21.dev@gmail.com
 - ⚡ Fun fact: I'm also a drummer
 
-I've been studying programming for about a year, learned a great deal of python. but I still have to learn Flask or Django since I decided to switch my attention to JavaScript, React and Node.JS in order to become a Web Developer
+I've been studying programming for about a year, learned a great deal of python. but I still have to learn Flask or Django since I decided to switch my attention to JavaScript, React and Node.JS
 
 ## ⚙️ GitHub Alanytics
 <div align="center" dir="auto">
