@@ -3,7 +3,7 @@
 I'm a begginer Front-End Developer from Brazil, although I aspire to become a Full-Stack Developer onde day
 
 - 🌱 I’m currently learning: ReactJS
-- 🔭 Looking forward to learn: NodeJS
+- 🔭 Looking forward to learn: NodeJS and Elixir
 - 💬 Ask me about: Python
 - 📫 How to reach me: andrechamis21.dev@gmail.com
 - ⚡ Fun fact: I'm also a drummer
