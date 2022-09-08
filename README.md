@@ -1,11 +1,11 @@
 # Hello World!, I'm André Chamis 👋
 
-I'm a begginer Front-End Developer from Brazil, although I aspire to become a Full-Stack Developer onde day
+I'm a begginer Full Stack developer from Brazil
 
-- 🌱 I’m currently learning: ReactJS
-- 🔭 Looking forward to learn: NodeJS and Elixir
+- 🌱 I’m currently learning: ReactJS and NodeJS
+- 🔭 Looking forward to learn: NodeJS
 - 💬 Ask me about: Python
-- 📫 How to reach me: andrechamis21.dev@gmail.com
+- 📫 How to reach me: andrechamis.dev@gmail.com
 - ⚡ Fun fact: I'm also a drummer
 
 I've been studying programming for about two years, learned a great deal of python, ReactJS, Node.js, javascript and typescript
