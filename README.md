@@ -1,12 +1,11 @@
 # Hello World!, I'm André Chamis 👋
 
-I'm a Full Stack developer from Brazil
+I'm a Full Stack developer from Brazil focused on delivering complete, responsive and accessible web Full-Stack applications
 
-- 🌱 I’m currently learning: ReactJS, Node.js and Express.js
-- 🔭 Looking forward to learn: More NodeJS
-- 💬 Ask me about: Python
+- 🌱 My current stack: Spring Boot, Next.js or Angular
+- 🔭 Looking forward to learn: Golang
+- 💬 Ask me about: Spring Boot
 - 📫 How to reach me: andrechamis21@gmail.com
-- ⚡ Fun fact: I'm also a drummer
 
 I've been studying programming for about two years, learned a great deal of python, ReactJS, Node.js, javascript and typescript
 
