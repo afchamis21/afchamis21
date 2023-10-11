@@ -13,5 +13,5 @@ I'm a Full Stack developer from Brazil focused on delivering complete, responsiv
     <img width="530em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afchamis21&layout=compact&theme=algolia&card_width=445px&&size_weight=0.5&count_weight=0.5" style="max-width: 100%;">
   </a>
 </div>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5)
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5)
 
