@@ -4,7 +4,7 @@ I'm a Full Stack developer from Brazil focused on delivering complete, responsiv
 
 - 🌱 My current stack: Spring Boot, Next.js or Angular
 - 🔭 Looking forward to learn: Golang
-- 💬 Ask me about: Java, Spring Boot, Python, PyQT5, Next.js, Angular
+- 💬 Ask me about: Java, Spring Boot, Python, Next.js, Angular
 - 📫 How to reach me: andrechamis21@gmail.com
 
 ## ⚙️ GitHub Analytics
