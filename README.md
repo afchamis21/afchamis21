@@ -1,10 +1,11 @@
-# Hello World!, I'm André Chamis 👋
+ ```java 
+ System.out.println("Welcome! 👋")
+```
+I'm André Chamis, a Full Stack Developer from Brazil with a strong focus on creating responsive, accessible, and scalable web applications.
 
-I'm a Full Stack developer from Brazil focused on delivering complete, responsive and accessible web Full-Stack applications
-
-- 🌱 My current stack: Spring Boot, Next.js or Angular
-- 🔭 Looking forward to learn: Golang
-- 💬 Ask me about: Java, Spring Boot, Python, Next.js, Angular
+- 🌐 Main technologies: Java with Spring Boot and Angular.
+- 📚 Currently learning: Go and Python.
+- 📱 Future interests: Backend and Android development using Kotlin.
 - 📫 How to reach me: andrechamis21@gmail.com
 
 ## ⚙️ GitHub Analytics
