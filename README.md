@@ -4,7 +4,7 @@
 I'm André Chamis, a Full Stack Developer from Brazil with a strong focus on creating responsive, accessible, and scalable web applications.
 
 - 🌐 Main technologies: Java with Spring Boot and Angular.
-- 📚 Currently learning: Go and Python.
+- 📚 Currently learning: Vue and Kotlin.
 - 📱 Future interests: Backend and Android development using Kotlin.
 - 📫 How to reach me: andrechamis21@gmail.com
 
